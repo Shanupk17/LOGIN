@@ -15,7 +15,7 @@
         android:layout_alignParentTop="true"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:text="NAME"
+        android:text="Login Id"
         android:textColor="#0B0A0A"
         android:textSize="24sp"
         android:textStyle="bold"
